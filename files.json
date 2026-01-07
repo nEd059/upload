@@ -28,7 +28,7 @@
               "type": "VersionManifest",
               "artifact": {
                 "size": 2847,
-                "MD5": "488443071ddac245c3081c9e72d5a7da",
+                "MD5": "a92cf5a763d3258362662a028de62129",
                 "url": "https://raw.githubusercontent.com/nEd059/upload/refs/heads/patch-1/fabric-loader-0.18.4-1.20.1.json"
               }
             },
